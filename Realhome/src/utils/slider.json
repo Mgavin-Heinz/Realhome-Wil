@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cape Town Luxury Villa",
+    "price": "4,200,000",
+    "detail": "13 Beach Road, Cape Town, Western Cape",
+    "image": "/cape-town-villa.png"
+  },
+  {
+    "name": "Johannesburg Penthouse",
+    "price": "6,500,000",
+    "detail": "45 Park Lane, Sandton, Johannesburg",
+    "image": "/johannesburg-penthouse.png"
+  },
+  {
+    "name": "Durban Coastal House",
+    "price": "3,150,000",
+    "detail": "32 Ocean View Drive, Durban, KwaZulu-Natal",
+    "image": "/durban-coastal-house.png"
+  },
+  {
+    "name": "Pretoria Family Home",
+    "price": "2,800,000",
+    "detail": "22 Willow Street, Pretoria, Gauteng",
+    "image": "/pretoria-family-home.png"
+  },
+  {
+    "name": "Cape Winelands Estate",
+    "price": "8,750,000",
+    "detail": "1 Vineyard Road, Stellenbosch, Western Cape",
+    "image": "/cape-winelands-estate.png"
+  },
+  {
+    "name": "Johannesburg Modern Loft",
+    "price": "3,900,000",
+    "detail": "78 Main Street, Maboneng, Johannesburg",
+    "image": "/johannesburg-loft.png"
+  }
+]
